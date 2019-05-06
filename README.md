@@ -20,3 +20,6 @@ Morse:
 mOwOrse:
 
 uwu uwu owo >w< uwu uwu uwu >w< uwu owo owo >w< ^w^ owo owo uwu owo >w< uwu uwu uwu >w< owo uwu owo >w< uwu uwu owo >w< owo owo >w< owo owo owo uwu >w< owo >w< ^w^ uwu uwu >w< owo >w< ^w^ owo owo uwu owo >w< uwu uwu uwu >w< owo uwu owo >w< ^w^ uwu >w< owo owo owo owo >w< owo >w< ^w^ owo owo owo >w< owo owo >w< uwu owo >w< owo owo owo >w< ^w^ owo owo >w< ^w^ owo owo owo owo >w< owo uwu >w< owo owo owo uwu >w< owo >w< ^w^ uwu owo uwu owo >w< uwu uwu uwu >w< uwu uwu >w< uwu uwu >w< owo owo >w< uwu >w< owo >w< uwu owo owo >w< 
+
+### Damning yourself to the same hellscape:
+go [here](https://github.com/qanazoga/mOwOrse/releases)
