@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
     clipboard.setContents(stringSelection, null)
 
     println("\nOTAY!!!\nI put dat in u cwipbowd >w<")
-    if (args.isNotEmpty())  {
+    if (args.isEmpty())  {
         println("pwess ENTER to cwose...")
         readLine()
     }
