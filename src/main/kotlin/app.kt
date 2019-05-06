@@ -31,7 +31,7 @@ fun convertPhrase(str: String): String {
 
 fun convertLetter(c: Char): String {
     var letter = when (c) {
-        ' ' -> "X3 "
+        ' ' -> "^w^ "
         'a' -> "owo uwu"
         'b' -> "uwu owo owo owo"
         'c' -> "uwu owo uwu owo"
@@ -60,6 +60,6 @@ fun convertLetter(c: Char): String {
         'z' -> "uwu uwu owo owo"
         else -> ""
     }
-    if (letter.isNotBlank() && letter != "X3 ") letter += " >w< "
+    if (letter.isNotBlank() && letter != "^w^ ") letter += " >w< "
     return letter
 }
